@@ -1,0 +1,6 @@
+/external_datasets
+/encoded_datasets
+/processed_datasets
+/.ipynb_checkpoints
+.env
+.mfa
